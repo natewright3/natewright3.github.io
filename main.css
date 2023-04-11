@@ -21,11 +21,8 @@ body {
 }
 
 .logo img{
-  /* margin-left: 30%; */
-  /* margin-right: 30%; */
   width:60vw;
   margin: 0 auto;
-  /* display: flex; */
   grid-area: logo;
 }
 .logo{
@@ -185,4 +182,21 @@ nav{
   "e f"
   ;
 }
+
+.logo img{
+  /* margin-left: 30%; */
+  /* margin-right: 30%; */
+  width:30vw;
+  margin: 0 auto;
+  /* display: flex; */
+  grid-area: logo;
 }
+nav li{
+  padding: 1em 0;
+  list-style-type: none;
+  padding: 150px;
+  font-size: 1.7em;
+}
+
+}
+
