@@ -43,7 +43,7 @@ body {
   grid-area: content;
   margin-left:6%;
   margin-right:10%;
-  background-color: rgba(251, 255, 0, 0.515);
+  /* background-color: rgba(251, 255, 0, 0.515); */
 }
 
 footer {
