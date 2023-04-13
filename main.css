@@ -48,7 +48,8 @@ body {
 
 footer {
 grid-area: footer;
-padding-top:5%
+padding-top:20%;
+padding-bottom: 10%;
 }
 
 h1 {
