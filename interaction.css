@@ -87,3 +87,17 @@
     filter: hue-rotate(90deg);
 
   }
+
+  a:link, a:visited {
+    color:rgb(3, 148, 92);
+    padding: 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+  }
+  
+  a:hover {
+    color:rgb(255, 138, 22);
+    
+  }
