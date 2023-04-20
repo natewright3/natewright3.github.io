@@ -29,6 +29,7 @@ body {
   margin: 0 auto;
   grid-area: logo;
 }
+
 .logo{
   /* margin-left: 30%; */
   /* margin-right: 30%; */
@@ -36,7 +37,12 @@ body {
   grid-area: logo;
   /* display: flex; */;
   padding-top: 2em;
+  animation: bounceIn;
+  animation-duration: 1.5s;
 }
+
+
+
 
 .name {
   grid-area: name;
